@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dart-code.dart-code",
+    "dart-code.flutter",
+    "streetsidesoftware.code-spell-checker-german",
+    "esbenp.prettier-vscode",
+    "ms-python.python",
+    "vscjava.vscode-java-pack",
+    "mathebuddy.mbl-language-extension"
+  ]
+}
